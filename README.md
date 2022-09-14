@@ -10,3 +10,4 @@ Me and my friend Siddharth Bharal created a model to detect the authenticity of 
 
 In the next section we have performed a short sentiment analysis using Vadar Sentiment Analyzer.
 
+-Kanika and Siddharth
